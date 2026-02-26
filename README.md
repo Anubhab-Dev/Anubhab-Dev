@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/17e92881-4693-4a1b-bc7a-4a4bac5bb534" width="400" />
+  <img src="https://github.com/user-attachments/assets/28c01eeb-abe5-4b44-8ed3-7f9507fcbc62" width="400" />
 </p>
 
 <p align="left"> 
